@@ -1,0 +1,8 @@
+huggingface-hub
+streamlit
+streamlit_chat
+audio-recorder-streamlit
+ffmpeg-python
+openai-whisper
+bcrypt
+pymongo
